@@ -61,7 +61,7 @@ Seseorang yang gemar membangun aplikasi web yang efisien dan estetik. Fokus saya
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
 
-# Hi there, I'm [Nama Kamu]! 👋
+# Hi there, 👋
 
 <h2 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7DF1E&background=0D111700&vCenter=true&width=500&lines=Software+Developer;JavaScript+Enthusiast;Postgres+Ninja;UI%2FUX+Explorer;I+Use+Arch+Btw" alt="Typing SVG" />
@@ -116,3 +116,5 @@ Seseorang yang gemar membangun aplikasi web yang efisien dan estetik. Fokus saya
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=[USERNAME_KAMU]&label=PROFIL%20VIEWER&countColor=%23263238&style=flat-square)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=[USERNAME_KAMU]&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=[USERNAME_KAMU]&theme=tokyonight)
