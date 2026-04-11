@@ -108,3 +108,11 @@ Seseorang yang gemar membangun aplikasi web yang efisien dan estetik. Fokus saya
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[USERNAME_KAMU])
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[USERNAME_KAMU])
+
+![snake gif](https://github.com/[USERNAME_KAMU]/[USERNAME_KAMU]/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_KAMU]&layout=compact&theme=tokyonight" />
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=[USERNAME_KAMU]&label=PROFIL%20VIEWER&countColor=%23263238&style=flat-square)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=[USERNAME_KAMU]&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
