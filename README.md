@@ -117,4 +117,4 @@ Seseorang yang gemar membangun aplikasi web yang efisien dan estetik. Fokus saya
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=[USERNAME_KAMU]&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=[USERNAME_KAMU]&theme=tokyonight)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=[yudiahmadtaqiyyudin]&theme=tokyonight)
